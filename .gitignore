@@ -17,6 +17,14 @@
 *.log
 *.ipynb
 !dar_kaggle_grpo_benchmark.ipynb
+!dar.ipynb
+!dar_kaggle_grpo_clean.ipynb
+!dar_kaggle_sft_clean.ipynb
+!dar_kaggle_stsg_pilot.ipynb
+!kaggle/dar-grpo-v2/dar-grpo.ipynb
+!kaggle/dar-grpo-v2/fresh_full_kernel/dar-grpo.ipynb
+!kaggle/dar-grpo-v2/kernel/dar-grpo.ipynb
+!kaggle/dar-sft-graph/dar-sft-graph.ipynb
 
 __pycache__/
 *.py[cod]
