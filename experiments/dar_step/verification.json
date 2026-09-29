@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-29",
+  "cpu_contract_tests": 14,
+  "cpu_contract_result": "pass",
+  "native_vila_tiny_random_weights_two_image_embed_generate": "pass",
+  "native_test_torch": "2.5.1+cu121",
+  "native_test_transformers": "4.36.2",
+  "notebook_schema_syntax_embedded_source": "pass",
+  "bundle_hashes": "pass",
+  "original_notebook_unchanged": true,
+  "gpu_real_vila_checkpoint_tested": false,
+  "student_sft_tested": false,
+  "hashes": {
+    "dar_kaggle_stsg_pilot.ipynb": "7010d08438280a49d0a8e084853e629a472ededafc5622696d81da64d08f2978",
+    "dar_kaggle_step_graph_pilot.ipynb": "818c1c80ac3f32c8996c79018a409494209a55db03add0b6662c70cf1f4c21f4"
+  },
+  "selector": "hecate_histogram_subshot_stillness",
+  "hecate_revision": "63d1c91eea847ac45545520274b78fdad1df32e0",
+  "hecate_cpp_binary_parity_tested": false,
+  "embedded_files": 20
+}
